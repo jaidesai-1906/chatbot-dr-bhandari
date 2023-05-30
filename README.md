@@ -26,6 +26,7 @@ cd chatbot-dr-bhandari
 ```bash
 pip install -r requirements.txt
 ```
+### Update with your open-ai-key
 
 ### Run the application:
 ```bash
